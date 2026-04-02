@@ -64,7 +64,7 @@
                     "mcp-snippets",
                     "mcp-everything-server",
                     "typing-extensions",
-                    "charset_normalizer-3.4.6-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
+                    "charset_normalizer-3.4.7-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl"
                 ]
             },
             "transitive_dependencies_names_list": {
