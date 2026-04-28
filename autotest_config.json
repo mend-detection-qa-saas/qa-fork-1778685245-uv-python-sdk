@@ -31,8 +31,8 @@
                 "eq": [
                     "mcp-simple-tool",
                     "mcp-structured-output-lowlevel",
-                    "certifi-2026.2.25-py3-none-any.whl",
-                    "idna-3.11-py3-none-any.whl",
+                    "certifi-2026.4.22-py3-none-any.whl",
+                    "idna-3.13-py3-none-any.whl",
                     "python_dotenv-1.2.1-py3-none-any.whl",
                     "starlette",
                     "uvicorn-0.39.0-py3-none-any.whl",
